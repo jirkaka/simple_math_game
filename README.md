@@ -5,3 +5,5 @@ Hi, this is my first ever "project". Its supposed to be a final work for my prog
 I created the core in 1 day and spend the next week with small tweeks and changes. 
 
 I am no programing genius so im pretty sure the code is straight garbage if you know how to code. Still, i am kinda proud since its my first ever work and i created it without any ai help or outside source.
+
+Also almost everything is in czech so if you want to try it you will have to translate it, sorry... 
