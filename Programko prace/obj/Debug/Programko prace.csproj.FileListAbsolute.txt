@@ -1,0 +1,11 @@
+C:\Users\jurda\source\repos\Programko prace\Programko prace\bin\Debug\Programko prace.exe.config
+C:\Users\jurda\source\repos\Programko prace\Programko prace\bin\Debug\Programko prace.exe
+C:\Users\jurda\source\repos\Programko prace\Programko prace\bin\Debug\Programko prace.pdb
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.csproj.AssemblyReference.cache
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko_prace.Form1.resources
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko_prace.Properties.Resources.resources
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.csproj.GenerateResource.cache
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.csproj.CoreCompileInputs.cache
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.exe
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.pdb
+C:\Users\jurda\source\repos\Programko prace\Programko prace\obj\Debug\Programko prace.exe.config
