@@ -1,2 +1,2 @@
-# prace-na-programko---vs-2022
-Závěrečná práce z programování v c# (3. ročník)
+# finla-work-c#---vs-2022
+Final work for my programing class (3rd year in high school)
